@@ -39,7 +39,7 @@ You can download the latest releases of Yuzu for Android 10 on huesos_96's repos
 
 ### - 🎮 YUZU FOR ANDROID 10 (DEBUG VERSION)
 
-This is the only Android 10 port i've found so far, I don't know who is the creator of it but credits to him/her. You can download it via clicking [here](
+This is the only Android 10 port i've found so far, I don't know who is the creator of it but credits to him/her. You can download it via clicking [here](https://github.com/XHYN-PH/yuzu-android10-drivers/releases/tag/yuzu-a10)
 
 ---
 
