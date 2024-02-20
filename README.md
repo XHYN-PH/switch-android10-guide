@@ -31,17 +31,17 @@ For more information please check their official site.
 
 ---
 
-# 📂 GET YUZU EMULATOR
+## 📂 GET YUZU EMULATOR
 
-### - 🎮 YUZU FOR ANDROID 10
+### 🎮 YUZU FOR ANDROID 10
 
 You can download the latest releases of Yuzu for Android 10 on huesos_96's repository, Click [here](https://github.com/SapphireRhodonite/yuzu-android/releases) to Download.
 
-### - 🎮 YUZU FOR ANDROID 10 (DEBUG VERSION)
+### 🎮 YUZU FOR ANDROID 10 (DEBUG VERSION)
 
 This is the only Android 10 port i've found so far, I don't know who is the creator of it but credits to him/her. You can download it via clicking [here](https://github.com/XHYN-PH/yuzu-android10-drivers/releases/tag/yuzu-a10)
 
-# DRIVERS
+## DRIVERS
 
 The drivers has been ranked from stablest/best to worst so it's up to you to choose... Special Thanks to SolDev69 for [unified-mesa-project](https://github.com/SolDev69/unified-mesa-project)
 
