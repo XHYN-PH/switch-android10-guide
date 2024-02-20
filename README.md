@@ -12,7 +12,7 @@
 
 <h4 align="center"><b>YUZU</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
 <br>
-It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
+For more information please check their official site.
 </h4>
 
 <p align="center">
@@ -31,19 +31,19 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 ---
 
-# 📂 DOWNLOADS
+# 📂 DOWNLOADS ←_←
 
-### - YUZU FOR ANDROID 10
+### - 🎮 YUZU FOR ANDROID 10
 
 You can download the latest releases of Yuzu for Android 10 on huesos_96's repository, Click [here](https://github.com/SapphireRhodonite/yuzu-android/releases) to Download.
 
-### - YUZU FOR ANDROID 10 (DEBUG VERSION)
+### - 🎮 YUZU FOR ANDROID 10 (DEBUG VERSION)
 
 This is the only Android 10 port i've found so far, I don't know who is the creator of it but credits to him/her. You can download it via clicking [here](
 
 ---
 
-### SUPPORT
+### 💸 SUPPORT
 
 If you enjoy the project and want to support the team financially, check out their Patreon!
 
