@@ -43,7 +43,7 @@ This is the only Android 10 port i've found so far, I don't know who is the crea
 
 ## DRIVERS
 
-The drivers has been ranked from stablest/best to worst so it's up to you to choose... Special Thanks to SolDev69 for [unified-mesa-project](https://github.com/SolDev69/unified-mesa-project)
+The drivers has been selected from stablest/best so it's up to you to choose... Special Thanks to SolDev69 for [unified-mesa-project](https://github.com/SolDev69/unified-mesa-project)
 
 > [!IMPORTANT]
 > Android 10 needs specific drivers for it inorder to work which is you can get down below. You **cannot use latest drivers** it will simply not work I've provided the latest and newest drivers that will work for A10.
