@@ -41,6 +41,22 @@ You can download the latest releases of Yuzu for Android 10 on huesos_96's repos
 
 This is the only Android 10 port i've found so far, I don't know who is the creator of it but credits to him/her. You can download it via clicking [here](https://github.com/XHYN-PH/yuzu-android10-drivers/releases/tag/yuzu-a10)
 
+> [!IMPORTANT]
+> Android 10 needs specific drivers for it inorder to work which is you can get down below. You **cannot use latest drivers** it will simply not work I've provided the latest and newest drivers that will work for A10.
+
+# DRIVERS
+
+The drivers has been ranked from stablest/best to worst so it's up to you to choose... Special Thanks to SolDev69 for [unified-mesa-project](https://github.com/SolDev69/unified-mesa-project)
+
+- BEST & STABLEST
+1. Qualcomm Driver v615v4 (10/01/2022)
+2. Qualcomm Driver v615.37 (09/14/2022)
+3. EggNS Mesa Skyport Driver (12/20/2022)
+4. Mesa Unified Pojav Driver
+
+- MORE DRIVERS (NOT ARRANGED)
+
+
 ---
 
 ### 💸 SUPPORT
