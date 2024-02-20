@@ -48,13 +48,13 @@ This is the only Android 10 port i've found so far, I don't know who is the crea
 
 The drivers has been ranked from stablest/best to worst so it's up to you to choose... Special Thanks to SolDev69 for [unified-mesa-project](https://github.com/SolDev69/unified-mesa-project)
 
-- BEST & STABLEST
-1. Qualcomm Driver v615v4 (10/01/2022)
-2. Qualcomm Driver v615.37 (09/14/2022)
-3. EggNS Mesa Skyport Driver (12/20/2022)
-4. Mesa Unified Pojav Driver
+### BEST & STABLEST
+* Qualcomm Driver v615v4 (10/01/2022)
+* Qualcomm Driver v615.37 (09/14/2022)
+* EggNS Mesa Skyport Driver (12/20/2022)
+* Mesa Unified Pojav Driver
 
-- MORE DRIVERS (NOT ARRANGED)
+### MORE DRIVERS (NOT ARRANGED)
 
 
 ---
