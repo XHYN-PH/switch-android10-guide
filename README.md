@@ -31,7 +31,7 @@ For more information please check their official site.
 
 ---
 
-# 📂 DOWNLOADS ←_←
+# 📂 DOWNLOADS
 
 ### - 🎮 YUZU FOR ANDROID 10
 
