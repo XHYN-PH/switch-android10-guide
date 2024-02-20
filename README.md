@@ -54,7 +54,7 @@ The drivers has been ranked from stablest/best to worst so it's up to you to cho
 * EggNS Mesa Skyport Driver (12/20/2022)
 * Mesa Unified Pojav Driver
 
-### MORE DRIVERS (NOT ARRANGED)
+### MORE DRIVERS
 
 
 ---
