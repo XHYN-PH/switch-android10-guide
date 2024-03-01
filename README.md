@@ -49,13 +49,54 @@ The drivers has been selected from stablest/best so it's up to you to choose... 
 > Android 10 needs specific drivers for it inorder to work which is you can get down below. You **cannot use latest drivers** it will simply not work I've provided the latest and newest drivers that will work for A10.
 
 ### BEST & STABLEST
-* Qualcomm Driver v615v4 (10/01/2022)
-* Qualcomm Driver v615.37 (09/14/2022)
-* EggNS Mesa Skyport Driver (12/20/2022)
-* Mesa Unified Pojav Driver
+* [Qualcomm Driver v615v4](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459981/A10-Compatibility-%40615V4-patched.adpkg.zip)
+* [Qualcomm Driver v615.37](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459984/A10-Compatibility-%40615.37-patched.adpkg.zip)
+* [EggNS Mesa Skyport Driver](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459986/A10-Compatibility-%40SKYPORT-patched.adpkg.zip)
+* [Mesa Unified Pojav Driver](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460005/A10-Custom-%40POJAV-patched.adpkg.zip)
+* [Mesa Turnip 22.0.99](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459974/A10-Compatibility-%4022.0.99-patched.adpkg.zip)
+
+### LATEST MESA DRIVER PORTS
+* [Mesa Turnip 24.0.0](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459990/A10-Custom-%4024.0.0-patched.adpkg.zip)
+* [Mesa Turnip 24.0.0-ump](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459989/A10-Custom-%4024.0.0-ump-patched.adpkg.zip)
+* [Mesa Turnip 24.0.1](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459993/A10-Custom-%4024.0.1.patched.adpkg.zip)
+* [Mesa Turnip 24.1.0](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459998/A10-Custom-%4024.1.0-patched.adpkg.zip)
 
 ### MORE DRIVERS
+* [Mesa Turnip 21.3.8](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459973/A10-Compatibility-%4021.3.8-patched.adpkg.zip)
+* [Mesa Turnip 22.2.0](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459977/A10-Compatibility-%4022.2.0-patched.adpkg.zip)
+* [Mesa Turnip 22.2.0-v2](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459976/A10-Compatibility-%4022.2.0v2-patched.adpkg.zip)
+* [Mesa Turnip 22.2.0-v3](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459978/A10-Compatibility-%4022.2.0v3-patched.adpkg.zip)
+* [Mesa Turnip 22.3.0](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459979/A10-Compatibility-%4022.3.0-patched.adpkg.zip)
+* [Qualcomm Driver v642.0](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459983/A10-Compatibility-%40631.0-patched.adpkg.zip)
+* [Mesa Turnip 22.1.7](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459987/A10-Custom-%4022.1.7-patched.adpkg.zip)
+* [Mesa Turnip 22.2.0-alt](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459988/A10-Custom-%4022.2.0-patched.adpkg.zip)
+* [Mesa LTO Turnip Driver](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459997/A10-Custom-%40MESA_LTO-patched.adpkg.zip)
+* [Mesa LTO Turnip Driver v2](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460000/A10-Custom-%40MESA_LTO-V2-patched.adpkg.zip)
+* [Mesa LTO Turnip Driver v3](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460003/A10-Custom-%40MESA_LTO-V3-patched.adpkg.zip)
+* [Mesa LTO Turnip Driver v4](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460006/A10-Custom-%40MESA_LTO-V4-patched.adpkg.zip)
+* [Turnip Mesa UMP Driver](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460011/A10-Custom-%40UMP-patched.adpkg.zip)
+* [Turnip Mesa UMP-debug](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460011/A10-Custom-%40UMP-patched.adpkg.zip)
+* [Mesa Driver by Leod2c11](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460014/DriverMesabyLeod2c11.zip)
 
+### PORTED DRIVERS FOR A10
+* [Poco F3 Freedreno Turnip Mesa LTO](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459997/A10-Custom-%40MESA_LTO-patched.adpkg.zip)
+* [EggNS Driver Mesa @611](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459999/A10-Custom-%40EGGNS_611-patched.adpkg.zip)
+
+### TURNIP V1 - V12 (DOESN'T WORK IN YUZU)
+Only works at Skyline Emulator
+
+* [Mesa Freedreno Turnip v1](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460032/turnip-v1-adpkg.zip)
+* [Mesa Freedreno Turnip v2](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460035/turnip-v2-adpkg.zip)
+* [Mesa Freedreno Turnip v3](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460036/turnip-v3-adpkg.zip)
+* [Mesa Freedreno Turnip v4](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460037/turnip-v4-adpkg.zip)
+* [Mesa Freedreno Turnip v5](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460038/turnip-v5-adpkg.zip)
+* [Mesa Freedreno Turnip v6](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460039/turnip-v6-adpkg.zip)
+* [Mesa Freedreno Turnip v7](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460040/turnip-v7-adpkg.zip)
+* [Mesa Freedreno Turnip v8](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460041/turnip-v8-adpkg.zip)
+* [Mesa Freedreno Turnip v9](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460043/turnip-v9-adpkg.zip)
+* [Mesa Freedreno Turnip v10](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460044/turnip-v10-adpkg.zip)
+* [Mesa Freedreno Turnip v11](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460045/turnip-v11-adpkg.zip)
+* [Mesa Freedreno Turnip v12](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460047/turnip-v12-adpkg.zip)
 
 ---
 
