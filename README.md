@@ -2,7 +2,7 @@
   <br>
   <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
   <br>
-  <b>YUZU FOR ANDORID 10</b>
+  <b>ANDROID 10 - SWITCH EMULATION GUIDE</b>
   <br>
 </h1>
 
@@ -31,17 +31,56 @@ For more information please check their official site.
 
 ---
 
-## 📂 GET YUZU EMULATOR
+# YUZU's DISCONTINUATION 
 
-### 🎮 YUZU FOR ANDROID 10
+#### YUZU development has been discontinued because of Piracy issues filed by Ninteno shit. As a result they will pay $2.4M in compensation and stop working on their project. In addition, the developers have committed to:
+- Close all repositories associated with the emulator
+- Stop supporting all discord servers
+- CLose all Patreon page
+- Disable all YUZU sites
+- And no more development for the project
 
-You can download the latest releases of Yuzu for Android 10 on huesos_96's repository, Click [here](https://github.com/SapphireRhodonite/yuzu-android/releases) to Download.
+---
 
-### 🎮 YUZU FOR ANDROID 10 (DEBUG VERSION)
+# SWITCH EMULATORS  FOR A10
 
-This is the only Android 10 port i've found so far, I don't know who is the creator of it but credits to him/her. You can download it via clicking [here](https://github.com/XHYN-PH/yuzu-android10-drivers/releases/tag/yuzu-a10)
+### 🎮 YUZU FINAL BUILD (v278)
+- The last YUZU build ported for A10 is v278, Click [here](https://github.com/SapphireRhodonite/yuzu-android/releases) to Download.
 
-## DRIVERS
+### 🎮 YUZU (DEBUG VERSION)
+- This is the first and final debug build ported for A10, You can download it via clicking [here](https://github.com/XHYN-PH/yuzu-android10-drivers/releases/tag/yuzu-a10)
+
+### 🎮 SKYLINE FINAL BUILD (v69)
+-
+
+### 🎮 SKYLINE LAST MR.PURPLE MOD
+-
+
+### 🎮 SKYLINE DEV BUILD
+-
+
+### 🎮 SUYU PORT
+-
+
+---
+
+## RECOMMENDED SETTINGS FOR 4GB RAM ~
+
+- [ ] DOCKED MODE
+- [x] DISK SHADER CACHE
+- [x] FORCE MAXIMUM CLOCKS
+- [x] USE ASYNCHRONOUS SHADERS
+- ACCURANCY LEVEL: NORMAL
+- RESOLUTION: 0.5x (360P/540P)
+- VSYNC MODE: MAILBOX
+- FSR SHARPNESS: 0%
+- ANTI-ALIASING METHOD: NONE
+- ANISOTROPIC FILTERING: 2x
+- CPU ACCRUANCY: AUTO
+
+To fix rendering issues or texture bugs try turning on *USE REACTIVE FLUSHING*
+
+# DRIVERS FOR ANDROID 10
 
 The drivers has been selected from stablest/best so it's up to you to choose... Special Thanks to SolDev69 for [unified-mesa-project](https://github.com/SolDev69/unified-mesa-project)
 
