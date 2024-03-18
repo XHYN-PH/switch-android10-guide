@@ -80,6 +80,8 @@ For more information please check their official site.
 
 To fix rendering issues or texture bugs try turning on *USE REACTIVE FLUSHING*
 
+---
+
 # DRIVERS FOR ANDROID 10
 
 The drivers has been selected from stablest/best so it's up to you to choose... Special Thanks to SolDev69 for [unified-mesa-project](https://github.com/SolDev69/unified-mesa-project)
