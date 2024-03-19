@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://yuzu-emu.org/"><img src="https://github.com/suyu-emu/suyu/blob/dev/dist/readme/suyu__Logo-Pill.svg" alt="yuzu" width="200"></a>
   <br>
   <b>ANDROID 10 - SWITCH EMULATION GUIDE</b>
   <br>
