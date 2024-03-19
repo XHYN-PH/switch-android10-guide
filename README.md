@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://github.com/suyu-emu/suyu/blob/dev/dist/readme/suyu__Logo-Pill.svg" alt="yuzu" width="200"></a>
+  <a href="https://suyu.dev/"><img src="https://github.com/suyu-emu/suyu/blob/dev/dist/readme/suyu__Logo-Pill.svg" alt="yuzu" width="400"></a>
   <br>
   <b>ANDROID 10 - SWITCH EMULATION GUIDE</b>
   <br>
 </h1>
 
 <p align="center">
-      <b><a href="https://github.com/XHYN-PH/yuzu-android10-drivers/issues">GAME COMPATIBILITY LIST</a> • <a href="https://yuzu-emu.org/">VISIT YUZU SITE</a></b>
+      <b><a href="https://github.com/XHYN-PH/yuzu-android10-drivers/issues">GAME COMPATIBILITY LIST</a> • <a href="https://suyu.dev/">VISIT SUYU SITE</a></b>
 </p>
 
 <h4 align="center"><b>YUZU</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
@@ -67,6 +67,15 @@ If you want to install older version of emulators... click here
 ---
 
 # CHANGELOGS & INFOS
+
+---
+
+# KEYS & FIRMWARES
+
+This is required inorder to play and use the emulators.
+- I will not provide any decryption key nor firmwares for you.
+
+**Note**: I do not support or condone piracy in any form. In order to use suyu or any other switch emulators, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. I do not intend to make money or profit from this repository.
 
 ---
 
