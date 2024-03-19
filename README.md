@@ -44,13 +44,13 @@ For more information please check their official site.
 
 # SWITCH EMULATORS  FOR A10
 
-### 🎮 YUZU FINAL BUILD (v278)
+### 🎮 YUZU FINAL (v278)
 - The last YUZU build ported for A10 is v278, Click [here](https://github.com/SapphireRhodonite/yuzu-android/releases) to Download.
 
 ### 🎮 YUZU (DEBUG VERSION)
 - This is the first and final debug build ported for A10, You can download it via clicking [here](https://github.com/XHYN-PH/yuzu-android10-drivers/releases/tag/yuzu-a10)
 
-### 🎮 SKYLINE FINAL BUILD (v69)
+### 🎮 SKYLINE FINAL (v69)
 -
 
 ### 🎮 SKYLINE LAST MR.PURPLE MOD
@@ -59,8 +59,14 @@ For more information please check their official site.
 ### 🎮 SKYLINE DEV BUILD
 -
 
-### 🎮 SUYU PORT
--
+### 🎮 SUYU NCE V16
+- Download [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.16/suyu-20240318-ab6c3f0538.apk)
+
+If you want to install older version of emulators... click here
+
+---
+
+# CHANGELOGS & INFOS
 
 ---
 
