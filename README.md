@@ -60,7 +60,7 @@ CHANGELOGS:
 ```
 
 ### 🎮 SUYU NCE V35
-Download [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.35/suyu-20240416-6d167195ba.apk)
+This is unofficial Suyu Emulator for A10 by [XForYouX](https://github.com/XForYouX/Suyu-Android-9). Download it [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.35/suyu-20240416-6d167195ba.apk)
 
 ```
 CHANGELOGS:
@@ -78,36 +78,15 @@ CHANGELOGS:
 ### 🎮 SKYLINE LAST MR.PURPLE MOD
 -
 
-### 🎮 SKYLINE DEV BUILD
--
-
 ---
 
 # KEYS & FIRMWARES
 
 This is required inorder to play and use the emulators.
 - I will not provide any decryption key nor firmwares for you.
-- You can find this think everywhere... Find it youself :))
+- You can find this thing everywhere... Find it youself :))
 
 **Note**: I do not support or condone piracy in any form. In order to use suyu or any other switch emulators, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. I do not intend to make money or profit from this repository.
-
----
-
-## RECOMMENDED SETTINGS FOR 4GB RAM ~
-
-- [ ] DOCKED MODE
-- [x] DISK SHADER CACHE
-- [x] FORCE MAXIMUM CLOCKS
-- [x] USE ASYNCHRONOUS SHADERS
-- ACCURANCY LEVEL: NORMAL
-- RESOLUTION: 0.5x (360P/540P)
-- VSYNC MODE: MAILBOX
-- FSR SHARPNESS: 0%
-- ANTI-ALIASING METHOD: NONE
-- ANISOTROPIC FILTERING: 2x
-- CPU ACCRUANCY: AUTO
-
-To fix rendering issues or texture bugs try turning on *USE REACTIVE FLUSHING*
 
 ---
 
@@ -168,3 +147,22 @@ Only works at Skyline Emulator
 * [Mesa Freedreno Turnip v11](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460045/turnip-v11-adpkg.zip)
 * [Mesa Freedreno Turnip v12](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460047/turnip-v12-adpkg.zip)
 
+---
+
+## RECOMMENDED SETTINGS FOR 4GB RAM ~
+
+- [ ] DOCKED MODE
+- [x] DISK SHADER CACHE
+- [x] FORCE MAXIMUM CLOCKS
+- [x] USE ASYNCHRONOUS SHADERS
+- ACCURANCY LEVEL: NORMAL
+- RESOLUTION: 0.5x (360P/540P)
+- VSYNC MODE: MAILBOX
+- FSR SHARPNESS: 0%
+- ANTI-ALIASING METHOD: NONE
+- ANISOTROPIC FILTERING: 2x
+- CPU ACCRUANCY: AUTO
+
+To fix rendering issues or texture bugs try turning on *USE REACTIVE FLUSHING*
+
+---
