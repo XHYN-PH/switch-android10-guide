@@ -2,7 +2,7 @@
   <br>
   <a href="https://suyu.dev/"><img src="https://github.com/suyu-emu/suyu/blob/dev/dist/readme/suyu__Logo-Pill.svg" alt="yuzu" width="400"></a>
   <br>
-  <b>ANDROID 10 - SWITCH EMULATION GUIDE</b>
+  <b>ANDROID 10 (SNAPDRAGON) - SWITCH EMULATION GUIDE</b>
   <br>
 </h1>
 
