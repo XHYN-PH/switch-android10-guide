@@ -7,6 +7,11 @@
 </h1>
 
 <p align="center">
+<a href="https://github.com/XHYN-PH"><img title="GitHub" src="https://img.shields.io/badge/XHYN-GITHUB-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/@xhyn_ph"><img title="YouTube" src="https://img.shields.io/badge/YouTube-XHYN_PH-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+
+<p align="center">
       <b><a href="https://github.com/XHYN-PH/yuzu-android10-drivers/issues">GAME COMPATIBILITY LIST</a> • <a href="https://suyu.dev/">VISIT SUYU SITE</a></b>
 </p>
 
@@ -15,25 +20,14 @@
 For more information please check their official site.
 </h4>
 
-<p align="center">
-    <a href="https://youtube.com/@xhyn_ph">
-        <img src="https://img.shields.io/badge/YouTube-red?color=bd2c00&label=SUBSCRIBE&logo=youtube&logoColor=white"
-            alt="YouTube">
-    </a>
-    <a href="https://discord.gg/retrohandhelds">
-        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=yuzu&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-</p>
-
 > [!NOTE]
-> YUZU doesn't officially supported Android 10. It was **unofficially ported** by huesos_96 Theres no other changes other than that, Same changelogs/updates to original YUZU.
+> YUZU doesn't officially supported Android 10. It was **unofficially ported** by huesos_96. Theres no changes other than that, Same changelogs/updates to original YUZU.
 
 ---
 
 # YUZU's DISCONTINUATION 
 
-#### YUZU development has been discontinued because of Piracy issues filed by Ninteno shit. As a result they will pay $2.4M in compensation and stop working on their project. In addition, the developers have committed to:
+#### YUZU development has been discontinued because of Piracy issues filed by Nintenshit. As a result they will pay $2.4M in compensation and stop working on their project. In addition, the developers have committed to:
 - Close all repositories associated with the emulator
 - Stop supporting all discord servers
 - CLose all Patreon page
@@ -42,13 +36,41 @@ For more information please check their official site.
 
 ---
 
-# SWITCH EMULATORS  FOR A10
+# DOWNLOAD SWITCH EMULATORS
 
 ### 🎮 YUZU FINAL (v278)
-- The last YUZU build ported for A10 is v278, Click [here](https://github.com/SapphireRhodonite/yuzu-android/releases) to Download.
+The last YUZU build ported for A10 is v278, Click [here](https://github.com/SapphireRhodonite/yuzu-android/releases) to Download.
+
+```
+CHANGELOGS:
+- Rework Nvdec and VIC to fix out-of-order videos, and speed up decoding
+- am: rewrite part 2
+- glue/time: Remove global variables
+- vfs: misc performance improvements
+- OVERCLOCKED VERSION. I modified the package name that may boost the performance/fps ingame.
+```
 
 ### 🎮 YUZU (DEBUG VERSION)
-- This is the first and final debug build ported for A10, You can download it via clicking [here](https://github.com/XHYN-PH/yuzu-android10-drivers/releases/tag/yuzu-a10)
+This is the first and final debug build ported for A10, You can download it via clicking [here](https://github.com/XHYN-PH/yuzu-android10-drivers/releases/tag/yuzu-a10)
+
+```
+CHANGELOGS:
+- Unknown Author
+- Debug Version of Yuzu
+```
+
+### 🎮 SUYU NCE V35
+Download [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.35/suyu-20240416-6d167195ba.apk)
+
+```
+CHANGELOGS:
+- Improved theming
+- Add Vram Usage ( Add Manually ) ( Not Work? Dont Use This , Im Ready To Remove This Feature )
+- Add Nvdec Emulation ( Add Manually ) ( Not Work? Dont Use This , Im Ready To Remove This Feature )
+- Shader ( Add Manually ) ( Not Work? Dont Use This , Im Ready To Remove This Feature )
+- Audio Mode ( Add Manually ) ( Not Work? Dont Use This , Im Ready To Remove This Feature )
+- Add More Option Debug ( CPU Debug ) ( Testing ) ( Some Feature Automatic Active & Not Disabled )
+```
 
 ### 🎮 SKYLINE FINAL (v69)
 -
@@ -59,21 +81,13 @@ For more information please check their official site.
 ### 🎮 SKYLINE DEV BUILD
 -
 
-### 🎮 SUYU NCE V16
-- Download [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.16/suyu-20240318-ab6c3f0538.apk)
-
-If you want to install older version of emulators... click here
-
----
-
-# CHANGELOGS & INFOS
-
 ---
 
 # KEYS & FIRMWARES
 
 This is required inorder to play and use the emulators.
 - I will not provide any decryption key nor firmwares for you.
+- You can find this think everywhere... Find it youself :))
 
 **Note**: I do not support or condone piracy in any form. In order to use suyu or any other switch emulators, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. I do not intend to make money or profit from this repository.
 
@@ -153,23 +167,4 @@ Only works at Skyline Emulator
 * [Mesa Freedreno Turnip v10](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460044/turnip-v10-adpkg.zip)
 * [Mesa Freedreno Turnip v11](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460045/turnip-v11-adpkg.zip)
 * [Mesa Freedreno Turnip v12](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460047/turnip-v12-adpkg.zip)
-
----
-
-### 💸 SUPPORT
-
-If you enjoy the project and want to support the team financially, check out their Patreon!
-
-<a href="https://www.patreon.com/yuzuteam">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-Any donations received will go towards things like:
-* Switch consoles to explore and reverse-engineer the hardware
-* Switch games for testing, reverse-engineering, and implementing new features
-* Web hosting and infrastructure setup
-* Software licenses (e.g. Visual Studio, IDA Pro, etc.)
-* Additional hardware (e.g. GPUs as-needed to improve rendering support, other peripherals to add support for, etc.)
-
-If you wish to support them a different way, please join their [Discord](https://discord.gg/u77vRWY) and talk to bunnei. You may also contact: donations@yuzu-emu.org.
 
