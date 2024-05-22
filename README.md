@@ -131,7 +131,7 @@ The drivers has been selected from stablest/best so it's up to you to choose... 
 * [Poco F3 Freedreno Turnip Mesa LTO](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459997/A10-Custom-%40MESA_LTO-patched.adpkg.zip)
 * [EggNS Driver Mesa @611](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14459999/A10-Custom-%40EGGNS_611-patched.adpkg.zip)
 
-### TURNIP V1 - V12 (DOESN'T WORK IN YUZU)
+### TURNIP V1 - V12 (DOESN'T WORK IN YUZU/SUYU)
 Only works at Skyline Emulator
 
 * [Mesa Freedreno Turnip v1](https://github.com/XHYN-PH/yuzu-android10-drivers/files/14460032/turnip-v1-adpkg.zip)
