@@ -76,7 +76,7 @@ CHANGELOGS:
 -
 
 ### 🎮 SKYLINE MR. PURPLE (v275)
-This is the last Mr.Purple mod for Skyline. Click [here]() to download
+This is the last Mr.Purple mod for Skyline. Click [here](https://github.com/XHYN-PH/switch-android10-guide/releases/download/skyline-mrpurple/skyline-275-release_MrPurple.apk) to download
 
 ```
 CHANGELOGS:
