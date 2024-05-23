@@ -39,7 +39,7 @@ For more information please check their official site.
 # DOWNLOAD SWITCH EMULATORS
 
 ### 🎮 YUZU FINAL (v278)
-The last YUZU build ported for A10 is v278, Click [here](https://github.com/SapphireRhodonite/yuzu-android/releases) to Download.
+The last YUZU build ported for A10 is v278, Click [here](https://github.com/XHYN-PH/switch-android10-guide/releases/download/yuzu-final/com.andromeda.androbench2.apk) to Download.
 
 ```
 CHANGELOGS:
