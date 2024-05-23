@@ -60,7 +60,7 @@ CHANGELOGS:
 ```
 
 ### 🎮 SUYU NCE V35
-This is unofficial Suyu Emulator for A10 by [XForYouX](https://github.com/XForYouX/Suyu-Android-9). Click [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.35/suyu-20240416-6d167195ba.apk) to Downlaod
+This is unofficial Suyu Emulator for A10 by [XForYouX](https://github.com/XForYouX/Suyu-Android-9). Click [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.35/suyu-20240416-6d167195ba.apk) to Downlaod.
 
 ```
 CHANGELOGS:
@@ -73,10 +73,21 @@ CHANGELOGS:
 ```
 
 ### 🎮 SKYLINE FINAL (v69)
--
+The last and final Skyline Version. Click [here]() to Download.
 
+```
+CHANGELOGS:
+- Add some services for homebrews – (DimaXD).
+- Allow exporting settings to text – (ismaelestalayo).
+- Add option to filter files as invalid – (Abandonedcart).
+- Update llvm and boost – (theASV).
+- Reimplement the memory manager – (TheASV).
+- Add pipeline loading UI – (lynx).
+- DD folding device support – (skriand).
+- Implement socket services – (DimaXD).
+```
 ### 🎮 SKYLINE MR. PURPLE (v275)
-This is the last Mr.Purple mod for Skyline. Click [here](https://github.com/XHYN-PH/switch-android10-guide/releases/download/skyline-mrpurple/skyline-275-release_MrPurple.apk) to download
+This is the last Mr.Purple mod for Skyline. Click [here](https://github.com/XHYN-PH/switch-android10-guide/releases/download/skyline-mrpurple/skyline-275-release_MrPurple.apk) to Download.
 
 ```
 CHANGELOGS:
