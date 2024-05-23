@@ -60,7 +60,7 @@ CHANGELOGS:
 ```
 
 ### 🎮 SUYU NCE V35
-This is unofficial Suyu Emulator for A10 by [XForYouX](https://github.com/XForYouX/Suyu-Android-9). Download it [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.35/suyu-20240416-6d167195ba.apk)
+This is unofficial Suyu Emulator for A10 by [XForYouX](https://github.com/XForYouX/Suyu-Android-9). Click [here](https://github.com/XForYouX/Suyu-Android-9/releases/download/NCE-V.35/suyu-20240416-6d167195ba.apk) to Downlaod
 
 ```
 CHANGELOGS:
