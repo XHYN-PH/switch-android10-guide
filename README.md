@@ -30,7 +30,7 @@ For more information please check their official site.
 #### YUZU development has been discontinued because of Piracy issues filed by Nintenshit. As a result they will pay $2.4M in compensation and stop working on their project. In addition, the developers have committed to:
 - Close all repositories associated with the emulator
 - Stop supporting all discord servers
-- CLose all Patreon page
+- Close all Patreon page
 - Disable all YUZU sites
 - And no more development for the project
 
