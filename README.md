@@ -73,7 +73,7 @@ CHANGELOGS:
 ```
 
 ### 🎮 SKYLINE FINAL (v69)
-The last and final Skyline Version. Click [here]() to Download.
+The last and final Skyline Version. Click [here](https://github.com/XHYN-PH/switch-android10-guide/releases/download/skyline69/edge-69.apk) to Download.
 
 ```
 CHANGELOGS:
