@@ -75,8 +75,15 @@ CHANGELOGS:
 ### 🎮 SKYLINE FINAL (v69)
 -
 
-### 🎮 SKYLINE LAST MR.PURPLE MOD
--
+### 🎮 SKYLINE MR. PURPLE (v275)
+This is the last Mr.Purple mod for Skyline. Click [here]() to download
+
+```
+CHANGELOGS:
+- Add "Report crash in UI by setting FPS to red" from PabloG02
+- Add "support for multiple search locations" from @hacoboto
+- Add "Change the way onBackPressedCallback is handled" from PabloG02 
+```
 
 ---
 
